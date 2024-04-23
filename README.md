@@ -1,4 +1,15 @@
-### Hi there 👋
+### WELCOME TO THE LAGPO
+
+       _
+      [ ]
+     (   )
+      |>|
+   __/===\__
+  //| o=o |\\
+<]  | o=o |  [>
+    \=====/
+   / / | \ \
+  <_________>
 
 <!--
 **lagueg/lagueg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
