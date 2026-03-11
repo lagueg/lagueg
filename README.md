@@ -1,15 +1,13 @@
-### WELCOME TO THE LAGPO
+# Geremy's GIT!!!
 
-       _
-      [ ]
-     (   )
-      |>|
-   __/===\__
-  //| o=o |\\
-<]  | o=o |  [>
-    \=====/
-   / / | \ \
-  <_________>
+Wow, this place is empty...
+
+⠀⠀⠀⠀⠀⣼⣧⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⣼⣿⣿⣧⠀⠀⠀⠀
+⠀⠀⠀⠾⠿⠿⠿⠿⠷⠀⠀⠀
+⠀⠀⣼⣆⠀⠀⠀⠀⣰⣧⠀⠀
+⠀⣼⣿⣿⣆⠀⠀⣰⣿⣿⣧⠀
+⠾⠟⠿⠿⠿⠧⠼⠿⠿⠿⠻⠷
 
 <!--
 **lagueg/lagueg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
