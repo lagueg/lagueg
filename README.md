@@ -1,4 +1,4 @@
-# Geremy's GIT!!!
+# Geremy's GIT HUB!!!
 
 Wow, this place is empty...
 
